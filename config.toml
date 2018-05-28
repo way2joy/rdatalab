@@ -40,11 +40,12 @@ hasCJKLanguage = true
   [[params.navlinks]]
   name = "알데이터랩 소개"
   url = "about/"
-  home = true
+
   
   [[params.navlinks]]
   name = "블로그"
   url = "blog/"
+  home = true
 
   [[params.navlinks]]
   name = "연락처"
