@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "알데이터랩 홈페이지"
+title = "알데이터랩"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ko-KR"
 # Enable comments by entering your Disqus shortname
