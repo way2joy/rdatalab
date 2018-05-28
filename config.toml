@@ -50,10 +50,6 @@ hasCJKLanguage = true
   name = "연락처"
   url = "contact/"
   
-  [[params.navlinks]]
-  name = "샘플페이지"
-  url = "portfolio/"
-  # home = true
 
   [params.social]
   email         = "unho.chang@gmail.com"
