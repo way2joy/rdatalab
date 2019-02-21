@@ -40,8 +40,6 @@ title = "알데이터랩 소개"
 
 #### 요약 Profile
 
-&nbsp;
-&nbsp;
 
 ![analysis profile][2]
 

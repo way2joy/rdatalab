@@ -16,10 +16,10 @@ hasCJKLanguage = true
   # Use custom.css for your custom styling
   style = "default"
   description = "R을 활용한 데이터 분석 전문기업"
-  copyright = "&copy;2018 알데이터랩"
+  copyright = "&copy;2019 알데이터랩"
   sidebarAbout = [
-    "지난 3년동안 다양한 공공과 민간 부분의 데이터 분석 프로젝트를 성공적으로 수행하였습니다.",
-    "제가 분석에 주도적으로 참여한 프로젝트가 2017년 공공빅데이터 활용분석 경진대회에 빅데이터를 활용한 도로관리 모델이라는 이름으로 출품되어 장려상을 수상하였습니다."
+    "지난 5년동안 다양한 공공과 민간 부분의 데이터 분석 프로젝트를 성공적으로 수행하였습니다.",
+    "ADP/정보처리기사 이며, 국민대학교 빅데이터 경영MBA 빅데이터 프로젝트 과목 책임 교수 입니다."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
