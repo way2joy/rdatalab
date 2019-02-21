@@ -16,9 +16,8 @@ title = "연락처"
 &nbsp;
 &nbsp;
 
-#### 전화번호 : (070) 5135 - 2201.
 
-#### 이 메 일 : ceo@dataotaku.com, unho.chang@gmail.com
+#### 이 메 일 : way2joy@kookmin.ac.kr, unho.chang@gmail.com
 
 &nbsp;
 &nbsp;
